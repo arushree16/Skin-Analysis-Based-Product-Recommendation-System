@@ -1,7 +1,3 @@
-Here’s an updated version of the README that reflects your file structure and situation:  
-
----
-
 # Skin Analysis System  
 
 A deep learning-based project designed to analyze skin type, acne levels, and skin tone from images and provide personalized skincare recommendations.  
